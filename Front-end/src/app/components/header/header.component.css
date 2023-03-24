@@ -9,4 +9,10 @@
     background-color: transparent !important;
     
   }
+/*Responsivo*/
 
+@media screen and (max-width: 767px){
+    .navbar-brand{
+    display: none;
+    }
+}
