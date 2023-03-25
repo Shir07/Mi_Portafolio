@@ -9,6 +9,12 @@
     background-color: transparent !important;
     
   }
+#boton{
+    border: 2px solid #EA358F ;
+    color: white;
+    padding: 5px 30px;
+}
+
 /*Responsivo*/
 
 @media screen and (max-width: 767px){
