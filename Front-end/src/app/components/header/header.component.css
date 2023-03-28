@@ -1,6 +1,6 @@
 /*banner y menu*/
 .header {
-    background: url(../../../assets/banner-mikhail-tyrsyna-unsplash.jpg) no-repeat center;
+    background: url(../../../assets/banner.jpg) no-repeat center;
     background-size: cover;
     min-height: 100vh;
   }
@@ -10,9 +10,21 @@
     
   }
 #boton{
-    border: 2px solid #EA358F ;
+    border: 2px solid #582b6b ;
     color: white;
     padding: 5px 30px;
+    
+}
+#boton:hover{
+  text-shadow: 1px 2px #9844ad;
+  
+  box-shadow: 0 0 1em 0.25em #c758e4;
+
+
+}
+#boton{
+  text-shadow: 1px 1px #2bb6e1;
+
 }
 
 /*Responsivo*/
