@@ -7,36 +7,13 @@
     line-height: 26px;
     color: white;
 }
-.type{
-    color: white; 
-   display: inline-block;
-    font-size: monospace;
-    white-space: nowrap;
-    border-right: 4px solid;
-    width: 35ch;
-    text-shadow: 1px 1px #c758e4;
-    
-  
-    
-    animation: typing 5s  steps(35) infinite  alternate,
-    blink .5s infinite step-end alternate;
-    overflow: hidden;
-    
-}
-
-@keyframes typing {
-    from { width: 0; }
-}
-
-@keyframes blink {
-    50% { border-color: transparent}
-}
-
 
 
 .text-box h1{
-    font-size: 30px;
+    font-size: 40px;
     line-height: 40px;
+    text-shadow: 1px 1px #c758e4;
+
     
 
     
@@ -47,7 +24,10 @@
     text-shadow: 1px 1px #c758e4;
 
 }
+h3{
+    text-shadow: 1px 1px #c758e4;
 
+}
 
     
 
@@ -89,6 +69,39 @@ a{
     
     
 }
+/*
+El h3 tenia un span con una animación de tipado pero no lograba
+que quede responsive. Decidí dejarlo así por el momento
+.type{
+    color: white; 
+   display: inline-block;
+    font-size: monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width: 33ch;
+    text-shadow: 1px 1px #c758e4;}
+    
+  
+    
+   /* animation: typing 5s  steps(33) ,
+    blink .5s infinite step-end alternate;
+    overflow: hidden;
+    
+}
+
+@keyframes typing {
+    from { width: 0; }
+}
+
+@keyframes blink {
+    50% { border-color: transparent}
+}
+
+/*@media (max-width:700px) and (min-width:500px){
+    .type{
+        font-size: 12px;
+    }
+}*/
 
 
 
