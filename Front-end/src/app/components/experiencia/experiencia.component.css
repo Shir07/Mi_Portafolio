@@ -1,0 +1,79 @@
+.experiencia{
+    background: linear-gradient(140deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    background-size: cover;
+    min-height: 100vh;
+    
+
+}
+
+.seccion-clara{
+    color: white;
+    text-shadow: 1px 1px #af2ccf;
+
+    
+}
+.experience {
+    padding: 100px 40px 60px 40px;
+    
+}
+
+.experience img{
+    border-radius:50%;
+    height: 70px;
+    width: 70px;
+
+
+}
+
+.experience .row div {
+    height: 450px;
+
+    /*background-color: #769cfe;
+    border: 3px solid #c669ff;*/
+
+}
+
+.experiencia-titulo{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+h1{
+    font-size: 35px;
+    padding: 10px 10px 50px;
+    font-weight: bold;
+}
+
+/*.badges-contenedor {
+    font-size: 20px;
+    font-weight: bold;
+    margin: -10;
+}
+
+.badge{
+    margin: 5px; 
+}*/
+
+.fecha{
+    font-size: 13px;
+    display: inline-block;
+    
+    margin: 8px;
+    margin-top: 1%;
+
+   
+}
+
+.parrafo{
+    text-align: justify;
+   
+
+}
+
+.experience .columna{
+    padding: 2rem 2rem 2rem 2rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
