@@ -1,0 +1,85 @@
+/* acerca de mi*/
+
+.about {
+    background: linear-gradient(45deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    min-height: 450px;
+    text-align:center;
+
+}
+
+section{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-top: 2%;
+    color: #fff;
+    font-family: 'Rubik Dirt', cursive;
+    text-shadow: 2px 2px #c758e4 ;
+
+
+}
+h2 {
+    margin-top: 2%;
+    margin-left: 7%;
+    margin-right: 7%;
+    font-size: 1.1rem;
+    color: white;
+    text-align: justify;
+    text-shadow: 1px 1px #c758e4;
+
+  
+}
+h3{
+    font-size: 15px;
+    color: white;
+    text-shadow: 1px 1px #c758e4;
+
+}
+
+.perfil{
+    margin-top: 6%;
+    border-radius: 50%;
+    width: 300;
+    height: 300;
+}
+
+.about-principal{
+    padding: 3rem;
+}
+
+a:hover{
+  
+    text-shadow: 1px 2px #4e1e5a;
+    box-shadow: 0 0 1em 0.25em #933ea8;
+    
+
+
+}
+a{
+    text-shadow: 2px 2px #000000;
+    position: relative;
+    margin-top: -20;
+    margin-bottom: 10%;
+    
+    font-size: 20px;
+ 
+}
+a{
+    
+    display: inline-block;
+    border-radius: 60px;
+    border: 2px solid rgba(255, 255, 255, 0.637) ;
+    color: rgb(255, 114, 248);
+    padding: 10px 30px;
+    text-decoration: none;
+    transition: .5s;
+
+ 
+    
+}

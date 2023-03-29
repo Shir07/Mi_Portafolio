@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 import { HeroHomeComponent } from './components/hero-home/hero-home.component';
+import { ExperienciaComponent } from './components/experiencia/experiencia.component';
 
 
 @NgModule({
@@ -14,6 +15,7 @@ import { HeroHomeComponent } from './components/hero-home/hero-home.component';
     HeaderComponent,
     AcercaDeComponent,
     HeroHomeComponent,
+    ExperienciaComponent,
    
   ],
   imports: [

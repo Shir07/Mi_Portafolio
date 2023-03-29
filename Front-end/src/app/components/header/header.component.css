@@ -10,20 +10,21 @@
     
   }
 #boton{
-    border: 2px solid #582b6b ;
+    border: 2px solid #ffffff ;
     color: white;
     padding: 5px 30px;
+    border-radius: 50px;
     
 }
 #boton:hover{
-  text-shadow: 1px 2px #9844ad;
-  
-  box-shadow: 0 0 1em 0.25em #c758e4;
+  text-shadow: 1px 1px #6e0909be;
+  transition: .5s;
+  box-shadow: 0 0 1em 0.25em #c858e496;
 
 
 }
 #boton{
-  text-shadow: 1px 1px #2bb6e1;
+  text-shadow: 1px -1px #7a2be1;
 
 }
 
