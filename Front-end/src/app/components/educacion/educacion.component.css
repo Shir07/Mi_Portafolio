@@ -1,0 +1,115 @@
+.educacion{
+    background: linear-gradient(41deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    background-size: cover;
+    min-height: 100vh; 
+}
+
+
+.grilla{
+    margin: 5%;
+}
+
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top: 20%;
+
+   
+}
+
+
+.ed-2 .grilla{
+    position: relative;
+    padding:15px;
+    box-shadow: 0px 2px 15px black;
+    border-radius: 5px;
+    background: transparent;
+    
+
+}
+
+
+.ed-2 .grilla .informacion {
+ padding: 20px;   
+ 
+
+}
+
+.ed-2 .grilla h4{
+  font-weight: 700;
+  margin-bottom: 5px;  
+  font-size: 20px;
+  color: white;
+  text-shadow: 1px 2px #af2ccf;
+}
+h3{
+    font-weight: 700;
+    margin-bottom: 5px;  
+    font-size: 16.5px;
+    color: white;
+    text-shadow: 1px 2px #af2ccf;
+  }
+
+.ed-2 .grilla span{
+    display: block;
+    font-size: 15px;
+    padding-bottom: 10px;
+    position: relative;
+    font-weight: 500;
+    color: white;
+    text-shadow: 1px 1px #af2ccf;
+}
+
+p{
+    font-size: 14px;
+    color: white;
+    text-shadow: 1px 1px #af2ccf;
+}
+
+.ed-2 .grilla .boton{
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+
+.ed-2 .grilla .boton a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 20px;
+  border-radius: 50px;
+
+ 
+  background: #fff;
+}
+
+.ed-2 .grilla .boton a{
+    color: #f1ebf3;
+    font-size: 16px;
+    padding: 12px 50px;
+    text-decoration: none;
+    transition: .5s;
+    background: #c669ff;
+ 
+}
+
+.ed-2 .grilla .boton a:hover{
+    background: #5da2ff;
+    color: #0c0c0c;
+   
+}
+
+ h2{
+    text-align: center;
+    margin-top: 10%;
+    color: white;
+    text-shadow: 1px 1px #af2ccf;
+
+
+}
+
+
