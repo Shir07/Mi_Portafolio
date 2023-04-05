@@ -1,5 +1,5 @@
 .educacion{
-    background: linear-gradient(41deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    background: linear-gradient(38deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
     background-size: cover;
     min-height: 100vh; 
 }
@@ -14,6 +14,7 @@ img{
     height: 100px;
     width: 100px;
     margin-top: 20%;
+    
 
    
 }
@@ -105,9 +106,10 @@ p{
 
  h2{
     text-align: center;
-    margin-top: 10%;
+    margin-top: 5%;
     color: white;
     text-shadow: 1px 1px #af2ccf;
+    font-size: 40px;
 
 
 }
