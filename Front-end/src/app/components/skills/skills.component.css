@@ -1,14 +1,30 @@
-/*.skills{
+section{
     background: linear-gradient(142deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
     background-size: cover;
     min-height: 100vh;
+    
      
 }
+/*
 circle-progress{
     padding: 10px 30px 30px 10px;
    position: relative;
    align-items: center;
-  
+  */
 
-}*/
+h1{
+    text-align: center;
+    padding: 40px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 1px 1px #af2ccf;
+}
 
+.accordion{
+    margin-top: 50px;
+    position: relative;
+    top: 50%;
+    left: 25%;
+   
+   
+}
