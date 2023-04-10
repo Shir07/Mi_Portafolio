@@ -1,5 +1,5 @@
 section{
-    background: linear-gradient(142deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    background: url(../../../assets/img-yibei-geng.jpg) no-repeat center;
     background-size: cover;
     min-height: 100vh;
     
@@ -51,8 +51,8 @@ h3{
 }
 
 img{
-    margin: 30px;
-    margin-top: -80px;
+    margin: 60px;
+    margin-top: -90px;
     height:300px;
     width:300px;
     border-radius: 50%;
@@ -64,3 +64,4 @@ img{
     display: none;
     }
 }
+

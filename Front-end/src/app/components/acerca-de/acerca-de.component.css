@@ -1,8 +1,9 @@
 /* acerca de mi*/
 
 .about {
-    background: linear-gradient(40deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
-    min-height: 450px;
+    background: url(../../../assets/img-skills.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
     text-align:center;
 
 }

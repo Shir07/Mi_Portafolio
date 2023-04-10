@@ -1,7 +1,7 @@
 .educacion{
-    background: linear-gradient(38deg,#46024d,#2b0538,#2b0538,#2281ed,#c669ff,#c669ff);
+    background: url(../../../assets/img-shahadat-rahman.jpg) no-repeat center;
     background-size: cover;
-    min-height: 100vh; 
+    min-height: 100vh;
 }
 
 
