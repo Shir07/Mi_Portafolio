@@ -65,3 +65,8 @@ img{
     }
 }
 
+.progress-bar {
+    font-size: 12px;
+    color: white;
+    text-shadow: 1px 0px #af2ccf;
+}
