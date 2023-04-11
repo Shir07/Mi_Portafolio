@@ -1,0 +1,61 @@
+footer{
+    background-color: black;
+}
+
+.contacto button {
+ color: white;   
+ font-weight: bold;
+ background-color: transparent;
+ border: 1px solid white ;
+ border-radius:50px;
+ padding: 10px ;
+ margin: 5px;
+ transition: all 0.2s ease-in-out;
+   
+}
+
+.contacto button:hover i{
+    color: blueviolet;
+}
+
+a{ 
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-in-out;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+.contacto a:hover {
+    color: blueviolet;
+
+}
+.contacto button i{ 
+    color: white;
+    font-size: 15px;
+    transition: all 0.2s ease-in-out;
+    padding: 5px;
+}
+
+
+.footer-icono i{
+color: white;
+font-size: 30px;
+margin: 15px;
+}
+
+.footer-icono i:hover{
+    color: blueviolet;
+    font-size: 30px;
+    margin: 15px;
+    }
+
+.derechos-de-autor{
+    color: #aeaeae;
+    font-size: 13px;
+    padding: 50px;
+   
+
+    
+}
