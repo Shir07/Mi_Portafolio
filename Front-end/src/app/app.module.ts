@@ -1,7 +1,8 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
-import { AppRoutingModule } from './app-routing.module';
+
+
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './components/header/header.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
@@ -15,6 +16,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { HomeComponent } from './components/home/home.component';
 import { LoginComponent } from './components/home/login/login.component';
+import { AppRoutingModule} from './app-routing.module';
 
 @NgModule({
   declarations: [
@@ -37,9 +39,6 @@ import { LoginComponent } from './components/home/login/login.component';
     AppRoutingModule,
     NgCircleProgressModule.forRoot({}),
     HttpClientModule,
-    
-
-
   ],
   providers: [],
   bootstrap: [AppComponent]
